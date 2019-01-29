@@ -41,3 +41,9 @@ src/playground
 .env.test
 .env.development
 .cache
+
+# Sensitive Details # (Check as per project)
+######################
+config
+
+
